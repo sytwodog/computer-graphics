@@ -1,6 +1,5 @@
 # computer-graphics
 机图实验
-# README
 
 ## 二维图形绘制页面操作
 
